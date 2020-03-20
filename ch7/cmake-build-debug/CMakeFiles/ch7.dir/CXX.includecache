@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Sales_data.h
+string
+-
+
+/home/ch/code/cpp_primer_prartice/ch7/practice_7_1.cpp
+iostream
+-
+Sales_data.h
+-
+
