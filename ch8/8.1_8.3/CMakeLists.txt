@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(
         ${PROJECT_SOURCE_DIR}/include
 )
-add_executable(8_1_8_3 practice_8_4.cpp)
+add_executable(8_1_8_3 my_try.cpp)

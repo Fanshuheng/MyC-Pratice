@@ -123,32 +123,32 @@ depend:
 	$(MAKE) -f CMakeFiles/8_1_8_3.dir/build.make CMakeFiles/8_1_8_3.dir/build
 .PHONY : 8_1_8_3/fast
 
-practice_8_4.o: practice_8_4.cpp.o
+my_try.o: my_try.cpp.o
 
-.PHONY : practice_8_4.o
+.PHONY : my_try.o
 
 # target to build an object file
-practice_8_4.cpp.o:
-	$(MAKE) -f CMakeFiles/8_1_8_3.dir/build.make CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.o
-.PHONY : practice_8_4.cpp.o
+my_try.cpp.o:
+	$(MAKE) -f CMakeFiles/8_1_8_3.dir/build.make CMakeFiles/8_1_8_3.dir/my_try.cpp.o
+.PHONY : my_try.cpp.o
 
-practice_8_4.i: practice_8_4.cpp.i
+my_try.i: my_try.cpp.i
 
-.PHONY : practice_8_4.i
+.PHONY : my_try.i
 
 # target to preprocess a source file
-practice_8_4.cpp.i:
-	$(MAKE) -f CMakeFiles/8_1_8_3.dir/build.make CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.i
-.PHONY : practice_8_4.cpp.i
+my_try.cpp.i:
+	$(MAKE) -f CMakeFiles/8_1_8_3.dir/build.make CMakeFiles/8_1_8_3.dir/my_try.cpp.i
+.PHONY : my_try.cpp.i
 
-practice_8_4.s: practice_8_4.cpp.s
+my_try.s: my_try.cpp.s
 
-.PHONY : practice_8_4.s
+.PHONY : my_try.s
 
 # target to generate assembly for a file
-practice_8_4.cpp.s:
-	$(MAKE) -f CMakeFiles/8_1_8_3.dir/build.make CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.s
-.PHONY : practice_8_4.cpp.s
+my_try.cpp.s:
+	$(MAKE) -f CMakeFiles/8_1_8_3.dir/build.make CMakeFiles/8_1_8_3.dir/my_try.cpp.s
+.PHONY : my_try.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... 8_1_8_3"
 	@echo "... edit_cache"
-	@echo "... practice_8_4.o"
-	@echo "... practice_8_4.i"
-	@echo "... practice_8_4.s"
+	@echo "... my_try.o"
+	@echo "... my_try.i"
+	@echo "... my_try.s"
 .PHONY : help
 
 

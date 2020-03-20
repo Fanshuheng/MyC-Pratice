@@ -57,27 +57,27 @@ include CMakeFiles/8_1_8_3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/8_1_8_3.dir/flags.make
 
-CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.o: CMakeFiles/8_1_8_3.dir/flags.make
-CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.o: ../practice_8_4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.o -c /home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/practice_8_4.cpp
+CMakeFiles/8_1_8_3.dir/my_try.cpp.o: CMakeFiles/8_1_8_3.dir/flags.make
+CMakeFiles/8_1_8_3.dir/my_try.cpp.o: ../my_try.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/8_1_8_3.dir/my_try.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/8_1_8_3.dir/my_try.cpp.o -c /home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/my_try.cpp
 
-CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/practice_8_4.cpp > CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.i
+CMakeFiles/8_1_8_3.dir/my_try.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/8_1_8_3.dir/my_try.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/my_try.cpp > CMakeFiles/8_1_8_3.dir/my_try.cpp.i
 
-CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/practice_8_4.cpp -o CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.s
+CMakeFiles/8_1_8_3.dir/my_try.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/8_1_8_3.dir/my_try.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/my_try.cpp -o CMakeFiles/8_1_8_3.dir/my_try.cpp.s
 
 # Object files for target 8_1_8_3
 8_1_8_3_OBJECTS = \
-"CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.o"
+"CMakeFiles/8_1_8_3.dir/my_try.cpp.o"
 
 # External object files for target 8_1_8_3
 8_1_8_3_EXTERNAL_OBJECTS =
 
-8_1_8_3: CMakeFiles/8_1_8_3.dir/practice_8_4.cpp.o
+8_1_8_3: CMakeFiles/8_1_8_3.dir/my_try.cpp.o
 8_1_8_3: CMakeFiles/8_1_8_3.dir/build.make
 8_1_8_3: CMakeFiles/8_1_8_3.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 8_1_8_3"

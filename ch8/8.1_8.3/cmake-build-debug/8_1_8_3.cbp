@@ -86,7 +86,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/practice_8_4.cpp">
+		<Unit filename="/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/my_try.cpp">
 			<Option target="8_1_8_3"/>
 		</Unit>
 		<Unit filename="/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/CMakeLists.txt">

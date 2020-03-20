@@ -6,15 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/practice_8_4.cpp
+/home/ch/code/cpp_primer_prartice/ch8/8.1_8.3/my_try.cpp
 iostream
 -
 fstream
 -
 sstream
--
-string
--
-vector
 -
 
