@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ch/code/cpp_primer_prartice/ch9/cpp_practice_9_51.cpp
+iostream
+-
+vector
+-
+list
+-
+string
+-
+

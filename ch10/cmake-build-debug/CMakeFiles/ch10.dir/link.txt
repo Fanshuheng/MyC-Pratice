@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ch10.dir/cpp_practice_10_1.cpp.o  -o ch10 

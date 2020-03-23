@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ch/code/cpp_primer_prartice/ch10/cpp_practice_10_1.cpp
+algorithm
+-
+vector
+-
+list
+-
+iostream
+-
+fstream
+-
+iterator
+-
+functional
+-
+

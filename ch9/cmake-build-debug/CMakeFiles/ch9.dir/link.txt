@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ch9.dir/cpp_practice_9_51.cpp.o  -o ch9 
