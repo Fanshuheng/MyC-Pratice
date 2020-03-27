@@ -1,0 +1,4 @@
+"D:\FOR_SOFTWARE\CLion\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\MyThing\MyThings\code\cpp\cpp_primer_practice\MyC-Pratice\ch11
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch11/cmake-build-debug

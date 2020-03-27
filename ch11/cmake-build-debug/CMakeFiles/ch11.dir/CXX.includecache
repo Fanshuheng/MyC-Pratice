@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch11/cpp_practice_11.cpp
+map
+-
+string
+-
+iostream
+-
+iterator
+-
+vector
+-
+set
+-
+algorithm
+-
+fstream
+-
+sstream
+-
+list
+-
+utility
+-
+
