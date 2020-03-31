@@ -1,0 +1,3 @@
+"D:\FOR_SOFTWARE\CLion\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\ch12.dir/objects.a
+D:\FOR_SOFTWARE\CLion\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\ch12.dir/objects.a @CMakeFiles\ch12.dir\objects1.rsp
+D:\FOR_SOFTWARE\CLion\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ch12.dir/objects.a -Wl,--no-whole-archive  -o ch12.exe -Wl,--out-implib,libch12.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ch12.dir\linklibs.rsp
