@@ -6,6 +6,20 @@
 
 #IncludeRegexTransform: 
 
+E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlob.cpp
+StrBlob.h
+E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlob.h
+
+E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlob.h
+iostream
+-
+vector
+-
+memory
+-
+exception
+-
+
 E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/cpp_practice_12.cpp
 string
 -
@@ -15,4 +29,8 @@ vector
 -
 memory
 -
+iterator
+-
+StrBlob.h
+E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlob.h
 

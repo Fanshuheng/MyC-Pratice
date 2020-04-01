@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlob.cpp" "E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/cmake-build-debug/CMakeFiles/ch12.dir/StrBlob.cpp.obj"
+  "E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlobPtr.cpp" "E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/cmake-build-debug/CMakeFiles/ch12.dir/StrBlobPtr.cpp.obj"
   "E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/cpp_practice_12.cpp" "E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/cmake-build-debug/CMakeFiles/ch12.dir/cpp_practice_12.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

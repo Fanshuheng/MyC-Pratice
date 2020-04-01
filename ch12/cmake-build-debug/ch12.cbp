@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlob.cpp">
+			<Option target="ch12"/>
+		</Unit>
+		<Unit filename="E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlob.h">
+			<Option target="ch12"/>
+		</Unit>
+		<Unit filename="E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlobPtr.cpp">
+			<Option target="ch12"/>
+		</Unit>
+		<Unit filename="E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/StrBlobPtr.h">
+			<Option target="ch12"/>
+		</Unit>
 		<Unit filename="E:/MyThing/MyThings/code/cpp/cpp_primer_practice/MyC-Pratice/ch12/cpp_practice_12.cpp">
 			<Option target="ch12"/>
 		</Unit>

@@ -122,6 +122,60 @@ ch12/fast:
 	$(MAKE) -f CMakeFiles\ch12.dir\build.make CMakeFiles/ch12.dir/build
 .PHONY : ch12/fast
 
+StrBlob.obj: StrBlob.cpp.obj
+
+.PHONY : StrBlob.obj
+
+# target to build an object file
+StrBlob.cpp.obj:
+	$(MAKE) -f CMakeFiles\ch12.dir\build.make CMakeFiles/ch12.dir/StrBlob.cpp.obj
+.PHONY : StrBlob.cpp.obj
+
+StrBlob.i: StrBlob.cpp.i
+
+.PHONY : StrBlob.i
+
+# target to preprocess a source file
+StrBlob.cpp.i:
+	$(MAKE) -f CMakeFiles\ch12.dir\build.make CMakeFiles/ch12.dir/StrBlob.cpp.i
+.PHONY : StrBlob.cpp.i
+
+StrBlob.s: StrBlob.cpp.s
+
+.PHONY : StrBlob.s
+
+# target to generate assembly for a file
+StrBlob.cpp.s:
+	$(MAKE) -f CMakeFiles\ch12.dir\build.make CMakeFiles/ch12.dir/StrBlob.cpp.s
+.PHONY : StrBlob.cpp.s
+
+StrBlobPtr.obj: StrBlobPtr.cpp.obj
+
+.PHONY : StrBlobPtr.obj
+
+# target to build an object file
+StrBlobPtr.cpp.obj:
+	$(MAKE) -f CMakeFiles\ch12.dir\build.make CMakeFiles/ch12.dir/StrBlobPtr.cpp.obj
+.PHONY : StrBlobPtr.cpp.obj
+
+StrBlobPtr.i: StrBlobPtr.cpp.i
+
+.PHONY : StrBlobPtr.i
+
+# target to preprocess a source file
+StrBlobPtr.cpp.i:
+	$(MAKE) -f CMakeFiles\ch12.dir\build.make CMakeFiles/ch12.dir/StrBlobPtr.cpp.i
+.PHONY : StrBlobPtr.cpp.i
+
+StrBlobPtr.s: StrBlobPtr.cpp.s
+
+.PHONY : StrBlobPtr.s
+
+# target to generate assembly for a file
+StrBlobPtr.cpp.s:
+	$(MAKE) -f CMakeFiles\ch12.dir\build.make CMakeFiles/ch12.dir/StrBlobPtr.cpp.s
+.PHONY : StrBlobPtr.cpp.s
+
 cpp_practice_12.obj: cpp_practice_12.cpp.obj
 
 .PHONY : cpp_practice_12.obj
@@ -158,6 +212,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... ch12
 	@echo ... edit_cache
+	@echo ... StrBlob.obj
+	@echo ... StrBlob.i
+	@echo ... StrBlob.s
+	@echo ... StrBlobPtr.obj
+	@echo ... StrBlobPtr.i
+	@echo ... StrBlobPtr.s
 	@echo ... cpp_practice_12.obj
 	@echo ... cpp_practice_12.i
 	@echo ... cpp_practice_12.s
